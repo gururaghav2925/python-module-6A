@@ -1,5 +1,4 @@
-# Heading
-Python Program to Pack Two Different Objects into a Tuple and Iterate Through It Using a Car Variable
+# Python Program to Pack Two Different Objects into a Tuple and Iterate Through It Using a Car Variable
 
 # Aim
 To create two classes, `Ferrari` and `BMW`, each having the same instance methods. Then, pack objects of both classes into a tuple and iterate through it using a variable `car`.
